@@ -20,44 +20,27 @@ Bu proje, [e-bebek.com](https://www.e-bebek.com) ana sayfasına entegre edilebil
 ---
 
 
-## 🧪 Kurulum ve Kullanım
-
-1. **Repo’yu klonla**
-
-```bash
-git clone https://github.com/berkeberkay/ProductCarouselCase.git
-
-https://www.e-bebek.com adresini aç
-
-Sayfada herhangi bir yere sağ tıkla → Inspect / İncele seç
-
-Üst menüden Console sekmesine geç
-
-main.js dosyasındaki tüm JS kodunu kopyala ve yapıştır
-
-Enter’a bas — karusel ana sayfada çalışmaya başlar 🎉
+##  Kurulum ve Kullanım
 
 
+1- git clone https://github.com/berkeberkay/ProductCarouselCase.git
+2- https://www.e-bebek.com adresini aç
+3- Sayfada herhangi bir yere sağ tıkla → Inspect / İncele seç
+4- Üst menüden Console sekmesine geç
+5- main.js dosyasındaki tüm JS kodunu kopyala ve yapıştır
+6- Enter’a bas — karusel ana sayfada çalışmaya başlar 🎉
 
-⚙️ Kullanılan Teknolojiler
+---
+
+
+## Kullanılan Teknolojiler
+
+
 ✅ JavaScript (ES6+)
-
 🧱 HTML DOM API
-
 🎨 CSS (JS ile enjekte edilir)
-
 💾 localStorage ile veri saklama
-
 🌐 Fetch API ile ürün verisi alma
 
-🧩 Teknik Detaylar
-📱 Responsive Yapı
-Mobil kırılma noktalarına (%80 genişlik, ok butonlarının daralması vb.) göre tüm layout yeniden biçimlenir.
-
-❤️ Favori Yönetimi
-Kalp ikonları 2 farklı SVG durumuna sahiptir. ebFavorites key’i ile localStorage’a ürün ID’leri yazılır.
-
-🔁 Kaydırma Mantığı
-Karusel kaydırması, .eb-carousel-stage elementinin transform: translateX(...) ile sola/sağa hareket ettirilmesiyle gerçekleştirilir.
 
 
