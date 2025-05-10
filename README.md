@@ -24,10 +24,15 @@ Bu proje, [e-bebek.com](https://www.e-bebek.com) ana sayfasına entegre edilebil
 
 
 1- git clone https://github.com/berkeberkay/ProductCarouselCase.git
+
 2- https://www.e-bebek.com adresini aç
+
 3- Sayfada herhangi bir yere sağ tıkla → Inspect / İncele seç
+
 4- Üst menüden Console sekmesine geç
+
 5- main.js dosyasındaki tüm JS kodunu kopyala ve yapıştır
+
 6- Enter’a bas — karusel ana sayfada çalışmaya başlar 🎉
 
 ---
@@ -37,9 +42,13 @@ Bu proje, [e-bebek.com](https://www.e-bebek.com) ana sayfasına entegre edilebil
 
 
 ✅ JavaScript (ES6+)
+
 🧱 HTML DOM API
+
 🎨 CSS (JS ile enjekte edilir)
+
 💾 localStorage ile veri saklama
+
 🌐 Fetch API ile ürün verisi alma
 
 
