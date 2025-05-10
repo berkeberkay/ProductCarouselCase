@@ -25,7 +25,8 @@ Bu proje, [e-bebek.com](https://www.e-bebek.com) ana sayfasına entegre edilebil
 1. **Repo’yu klonla**
 
 ```bash
-git clone https://github.com/berketekce/ebebek-carousel-case.git
+git clone https://github.com/berkeberkay/ProductCarouselCase.git
+
 https://www.e-bebek.com adresini aç
 
 Sayfada herhangi bir yere sağ tıkla → Inspect / İncele seç
@@ -35,6 +36,8 @@ Sayfada herhangi bir yere sağ tıkla → Inspect / İncele seç
 main.js dosyasındaki tüm JS kodunu kopyala ve yapıştır
 
 Enter’a bas — karusel ana sayfada çalışmaya başlar 🎉
+
+
 
 ⚙️ Kullanılan Teknolojiler
 ✅ JavaScript (ES6+)
