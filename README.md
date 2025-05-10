@@ -19,14 +19,6 @@ Bu proje, [e-bebek.com](https://www.e-bebek.com) ana sayfasına entegre edilebil
 
 ---
 
-## 🎬 Demo
-
-> **Demo video adı:**  
-> `ebebek._.Anne.ve.Bebek.Urunleri.-.Bebek.Magazalari.-.Google.Chrome.2025-04-07.22-13-13.webm`  
->  
-> Tarayıcı konsoluna tüm JS kodunu yapıştırarak canlı olarak karuseli çalıştırabilirsiniz.
-
----
 
 ## 🧪 Kurulum ve Kullanım
 
